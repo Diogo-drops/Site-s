@@ -1,0 +1,3 @@
+import {NextResponse} from "next/server"; import type {NextRequest} from "next/server"; import {jwtVerify} from "jose/jwt/verify";
+export async function middleware(req:NextRequest){if(req.nextUrl.pathname==="/admin/login")return NextResponse.next();const token=req.cookies.get("gf_admin")?.value;if(!token)return NextResponse.redirect(new URL("/admin-login",req.url));try{if(!process.env.AUTH_SECRET)throw new Error("Autenticação não configurada");const {payload}=await jwtVerify(token,new TextEncoder().encode(process.env.AUTH_SECRET),{algorithms:["HS256"]});if(payload.role!=="ADMIN")throw new Error("Acesso negado");return NextResponse.next()}catch{return NextResponse.redirect(new URL("/admin-login",req.url))}}
+export const config={matcher:["/admin/:path*"]};

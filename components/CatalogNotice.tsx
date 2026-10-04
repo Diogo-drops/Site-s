@@ -1,0 +1,1 @@
+export function CatalogNotice(){return <p className="rounded-xl bg-sky-50 border border-sky-100 p-4 text-sm text-slate-600 my-6">Escolha seus produtos e finalize o pedido. Os valores do catálogo são de referência; nossa equipe confirma preço, disponibilidade e entrega antes da cobrança.</p>}

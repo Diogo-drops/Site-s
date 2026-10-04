@@ -1,0 +1,7 @@
+COMANDO INICIAL PARA COLAR NO CODEX
+
+Leia o AGENTS.md e o README.md. Configure e rode este projeto localmente.
+Execute npm install, crie o .env a partir do .env.example, rode npm run db:push, npm run db:seed e npm run dev.
+Depois teste o fluxo completo da loja e corrija qualquer erro de TypeScript, Prisma, dependências, build ou runtime.
+Ao final, execute npm run build e só considere concluído quando o build terminar sem erros.
+Não remova funcionalidades e não invente credenciais externas.

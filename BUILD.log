@@ -1,0 +1,62 @@
+npm warn Unknown env config "http-proxy". This will stop working in the next major version of npm.
+
+> gold-fish-ecommerce@1.0.0 build
+> node scripts/generate-client.cjs && next build
+
+warn The configuration property `package.json#prisma` is deprecated and will be removed in Prisma 7. Please migrate to a Prisma config file (e.g., `prisma.config.ts`).
+For more information, see: https://pris.ly/prisma-config
+
+Environment variables loaded from .env
+Prisma schema loaded from prisma/schema.prisma
+
+✔ Generated Prisma Client (v6.19.3) to ./node_modules/@prisma/client in 101ms
+
+Start by importing your Prisma Client (See: https://pris.ly/d/importing-client)
+
+Tip: Interested in query caching in just a few lines of code? Try Accelerate today! https://pris.ly/tip-3-accelerate
+
+   ▲ Next.js 15.5.27
+   - Environments: .env
+
+   Creating an optimized production build ...
+ ✓ Compiled successfully in 3.0s
+   Linting and checking validity of types ...
+   Collecting page data ...
+   Generating static pages (0/13) ...
+   Generating static pages (3/13) 
+   Generating static pages (6/13) 
+   Generating static pages (9/13) 
+ ✓ Generating static pages (13/13)
+   Finalizing page optimization ...
+   Collecting build traces ...
+
+Route (app)                                 Size  First Load JS
+┌ ƒ /                                      836 B         107 kB
+├ ○ /_not-found                            991 B         104 kB
+├ ƒ /admin                               1.01 kB         107 kB
+├ ○ /admin-login                           650 B         103 kB
+├ ƒ /api/admin/login                       145 B         103 kB
+├ ƒ /api/admin/orders                      145 B         103 kB
+├ ƒ /api/admin/products                    145 B         103 kB
+├ ƒ /api/checkout-config                   145 B         103 kB
+├ ƒ /api/orders                            145 B         103 kB
+├ ƒ /api/payments                          145 B         103 kB
+├ ƒ /api/payments/webhook                  145 B         103 kB
+├ ○ /carrinho                            1.45 kB         107 kB
+├ ƒ /categorias/[slug]                     836 B         107 kB
+├ ○ /checkout                            2.97 kB         109 kB
+├ ƒ /pedidos/[token]                       626 B         107 kB
+├ ƒ /produtos/[slug]                       817 B         103 kB
+├ ○ /robots.txt                            145 B         103 kB
+└ ƒ /sitemap.xml                           145 B         103 kB
++ First Load JS shared by all             103 kB
+  ├ chunks/255-ce8c7c75002f810b.js       46.5 kB
+  ├ chunks/4bd1b696-c023c6e3521b1417.js  54.2 kB
+  └ other shared chunks (total)          1.92 kB
+
+
+ƒ Middleware                             39.2 kB
+
+○  (Static)   prerendered as static content
+ƒ  (Dynamic)  server-rendered on demand
+

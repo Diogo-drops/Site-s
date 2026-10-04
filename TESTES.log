@@ -1,0 +1,17 @@
+npm warn Unknown env config "http-proxy". This will stop working in the next major version of npm.
+
+> gold-fish-ecommerce@1.0.0 test:api
+> node test-api.cjs
+
+PASS API: 86 produtos/fotos/preços, 9 categorias filtradas, admin protegido, pedido a confirmar, idempotência, WhatsApp real do catálogo, confirmação administrativa, reserva de estoque, gateway não configurado e webhook inválido.
+PASS UI: 86 botões Comprar; 9 categorias em novas abas; quantidade/reload; finalizar compra; pedido/mensagem/WhatsApp; acompanhamento; carrinho vazio; admin; mobile sem overflow; zero erros JS.
+PASS gateway (mock isolado): preferência/valores/retorno, modo sandbox, assinatura válida e adulterada, falha de provedor. Nenhuma cobrança externa.
+PASS webhook (mock isolado): assinatura, valor/BRL/pedido, aprovação, idempotência, divergência rejeitada e evento pendente não rebaixa pedido pago.
+PASS WhatsApp (mock isolado): fallback manual, template de notificação e falha de API sem perder pedido. Nenhuma mensagem externa.
+npm warn Unknown env config "http-proxy". This will stop working in the next major version of npm.
+
+> gold-fish-ecommerce@1.0.0 test:api
+> node test-api.cjs
+
+PASS API: 86 produtos/fotos/preços, 9 categorias filtradas, admin protegido, pedido a confirmar, idempotência, WhatsApp real do catálogo, confirmação administrativa, reserva de estoque, gateway não configurado e webhook inválido.
+PASS UI: 86 botões Comprar; 9 categorias em novas abas; quantidade/reload; finalizar compra; pedido/mensagem/WhatsApp; acompanhamento; carrinho vazio; admin; mobile sem overflow; zero erros JS.

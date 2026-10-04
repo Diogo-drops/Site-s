@@ -1,0 +1,776 @@
+[
+  {
+    "sku": "00001",
+    "name": "Suporte canhão tamanho único",
+    "slug": "suporte-canhao-tamanho-unico-00001",
+    "price": 1280,
+    "category": "Suportes para varas",
+    "image": "/catalogo/00001.jpg",
+    "sourcePage": 3
+  },
+  {
+    "sku": "00002",
+    "name": "Suporte fixo argola Tamanho único 37cm altura",
+    "slug": "suporte-fixo-argola-tamanho-unico-37cm-altura-00002",
+    "price": 690,
+    "category": "Suportes para varas",
+    "image": "/catalogo/00002.jpg",
+    "sourcePage": 3
+  },
+  {
+    "sku": "00003",
+    "name": "Suporte fixo Tamanho único 45°",
+    "slug": "suporte-fixo-tamanho-unico-45-00003",
+    "price": 690,
+    "category": "Suportes para varas",
+    "image": "/catalogo/00003.jpg",
+    "sourcePage": 3
+  },
+  {
+    "sku": "00004",
+    "name": "Suporte regulável tamanho único",
+    "slug": "suporte-regulavel-tamanho-unico-00004",
+    "price": 1490,
+    "category": "Suportes para varas",
+    "image": "/catalogo/00004.jpg",
+    "sourcePage": 3
+  },
+  {
+    "sku": "00011",
+    "name": "Suporte dobrável \"P\" 30cm altura 3 posição",
+    "slug": "suporte-dobravel-p-30cm-altura-3-posicao-00011",
+    "price": 595,
+    "category": "Suportes para varas",
+    "image": "/catalogo/00011.jpg",
+    "sourcePage": 3
+  },
+  {
+    "sku": "00012",
+    "name": "Suporte dobrável \"M\" 40cm altura 3 posição",
+    "slug": "suporte-dobravel-m-40cm-altura-3-posicao-00012",
+    "price": 790,
+    "category": "Suportes para varas",
+    "image": "/catalogo/00012.jpg",
+    "sourcePage": 3
+  },
+  {
+    "sku": "00013",
+    "name": "Suporte dobrável \"G\" 50cm altura 3 posição serve para vara de mão",
+    "slug": "suporte-dobravel-g-50cm-altura-3-posicao-serve-para-vara-de-mao-00013",
+    "price": 890,
+    "category": "Suportes para varas",
+    "image": "/catalogo/00013.jpg",
+    "sourcePage": 3
+  },
+  {
+    "sku": "00014",
+    "name": "Suporte fixo n°1 vara de mão",
+    "slug": "suporte-fixo-n1-vara-de-mao-00014",
+    "price": 425,
+    "category": "Suportes para varas",
+    "image": "/catalogo/00014.jpg",
+    "sourcePage": 3
+  },
+  {
+    "sku": "00015",
+    "name": "Suporte fixo n°2 vara de mão",
+    "slug": "suporte-fixo-n2-vara-de-mao-00015",
+    "price": 495,
+    "category": "Suportes para varas",
+    "image": "/catalogo/00015.jpg",
+    "sourcePage": 3
+  },
+  {
+    "sku": "00016",
+    "name": "Suporte fixo n°3 vara de mão",
+    "slug": "suporte-fixo-n3-vara-de-mao-00016",
+    "price": 595,
+    "category": "Suportes para varas",
+    "image": "/catalogo/00016.jpg",
+    "sourcePage": 3
+  },
+  {
+    "sku": "00030",
+    "name": "MASSA PRONTA PARA PESCA - 7 sabores - 200G",
+    "slug": "massa-pronta-para-pesca-7-sabores-200g-00030",
+    "price": 425,
+    "category": "Massas e rações",
+    "image": "/catalogo/00030.jpg",
+    "sourcePage": 3
+  },
+  {
+    "sku": "00031",
+    "name": "Ração Furadinha (DIVERSOS SABORES)",
+    "slug": "racao-furadinha-diversos-sabores-00031",
+    "price": 540,
+    "category": "Massas e rações",
+    "image": "/catalogo/00031.jpg",
+    "sourcePage": 3
+  },
+  {
+    "sku": "00050",
+    "name": "Tapete feito em tecido pvc emborrachado com alça super resistente",
+    "slug": "tapete-feito-em-tecido-pvc-emborrachado-com-alca-super-resistente-00050",
+    "price": 3250,
+    "category": "Tapetes para pesca",
+    "image": "/catalogo/00050.jpg",
+    "sourcePage": 4
+  },
+  {
+    "sku": "00051",
+    "name": "Viveiro 1 argola \"P\" - 60cm altura / 20cm de",
+    "slug": "viveiro-1-argola-p-60cm-altura-20cm-de-00051",
+    "price": 990,
+    "category": "Viveiros",
+    "image": "/catalogo/00051.jpg",
+    "sourcePage": 4
+  },
+  {
+    "sku": "00052",
+    "name": "Viveiro 1 argola \"M\" - 86cm altura / 26cm de",
+    "slug": "viveiro-1-argola-m-86cm-altura-26cm-de-00052",
+    "price": 1190,
+    "category": "Viveiros",
+    "image": "/catalogo/00052.jpg",
+    "sourcePage": 4
+  },
+  {
+    "sku": "00053",
+    "name": "Viveiro 1 argola \"G\" - 1,05mt altura / 31cm de boca",
+    "slug": "viveiro-1-argola-g-1-05mt-altura-31cm-de-boca-00053",
+    "price": 1290,
+    "category": "Viveiros",
+    "image": "/catalogo/00053.jpg",
+    "sourcePage": 4
+  },
+  {
+    "sku": "00054",
+    "name": "Viveiro 2 argolas \"P\" - 45cm altura / 26cm de",
+    "slug": "viveiro-2-argolas-p-45cm-altura-26cm-de-00054",
+    "price": 1070,
+    "category": "Viveiros",
+    "image": "/catalogo/00054.jpg",
+    "sourcePage": 4
+  },
+  {
+    "sku": "00055",
+    "name": "Viveiro 2 argolas \"M\" - 50cm altura / 30cm de",
+    "slug": "viveiro-2-argolas-m-50cm-altura-30cm-de-00055",
+    "price": 1140,
+    "category": "Viveiros",
+    "image": "/catalogo/00055.jpg",
+    "sourcePage": 4
+  },
+  {
+    "sku": "00056",
+    "name": "Viveiro 2 argolas \"G\" - 66cm altura / 33cm de",
+    "slug": "viveiro-2-argolas-g-66cm-altura-33cm-de-00056",
+    "price": 1430,
+    "category": "Viveiros",
+    "image": "/catalogo/00056.jpg",
+    "sourcePage": 4
+  },
+  {
+    "sku": "00057",
+    "name": "Viveiro 3 argolas \"P\" - 72cm altura / 20cm de",
+    "slug": "viveiro-3-argolas-p-72cm-altura-20cm-de-00057",
+    "price": 1490,
+    "category": "Viveiros",
+    "image": "/catalogo/00057.jpg",
+    "sourcePage": 4
+  },
+  {
+    "sku": "00058",
+    "name": "Viveiro 3 argolas \"M\" - 88cm altura / 26cm de",
+    "slug": "viveiro-3-argolas-m-88cm-altura-26cm-de-00058",
+    "price": 1790,
+    "category": "Viveiros",
+    "image": "/catalogo/00058.jpg",
+    "sourcePage": 4
+  },
+  {
+    "sku": "00059",
+    "name": "Viveiro 3 argolas \"G\" - 1mt altura / 30cm de boca",
+    "slug": "viveiro-3-argolas-g-1mt-altura-30cm-de-boca-00059",
+    "price": 2190,
+    "category": "Viveiros",
+    "image": "/catalogo/00059.jpg",
+    "sourcePage": 4
+  },
+  {
+    "sku": "00060",
+    "name": "Viveiro 4 argolas \"P\" - 95cm altura / 20cm de",
+    "slug": "viveiro-4-argolas-p-95cm-altura-20cm-de-00060",
+    "price": 1860,
+    "category": "Viveiros",
+    "image": "/catalogo/00060.jpg",
+    "sourcePage": 4
+  },
+  {
+    "sku": "00061",
+    "name": "Viveiro 4 argolas \"M\" - 1,10mt altura / 26cm de boca",
+    "slug": "viveiro-4-argolas-m-1-10mt-altura-26cm-de-boca-00061",
+    "price": 2290,
+    "category": "Viveiros",
+    "image": "/catalogo/00061.jpg",
+    "sourcePage": 4
+  },
+  {
+    "sku": "00062",
+    "name": "Viveiro de 4 Argola G pescoço, 1,30 altura",
+    "slug": "viveiro-de-4-argola-g-pescoco-1-30-altura-00062",
+    "price": 2990,
+    "category": "Viveiros",
+    "image": "/catalogo/00062.jpg",
+    "sourcePage": 5
+  },
+  {
+    "sku": "00063",
+    "name": "SACOLA 30X45cm \"M\"",
+    "slug": "sacola-30x45cm-m-00063",
+    "price": 540,
+    "category": "Sacolas e redes",
+    "image": "/catalogo/00063.jpg",
+    "sourcePage": 5
+  },
+  {
+    "sku": "00064",
+    "name": "SACOLA 40X50cm \"G\"",
+    "slug": "sacola-40x50cm-g-00064",
+    "price": 590,
+    "category": "Sacolas e redes",
+    "image": "/catalogo/00064.jpg",
+    "sourcePage": 5
+  },
+  {
+    "sku": "00065",
+    "name": "SACOLA 40X100cm",
+    "slug": "sacola-40x100cm-00065",
+    "price": 690,
+    "category": "Sacolas e redes",
+    "image": "/catalogo/00065.jpg",
+    "sourcePage": 5
+  },
+  {
+    "sku": "00066",
+    "name": "SACOLA 40X60cm",
+    "slug": "sacola-40x60cm-00066",
+    "price": 640,
+    "category": "Sacolas e redes",
+    "image": "/catalogo/00066.jpg",
+    "sourcePage": 5
+  },
+  {
+    "sku": "00067",
+    "name": "SACOLA 40X80cm",
+    "slug": "sacola-40x80cm-00067",
+    "price": 670,
+    "category": "Sacolas e redes",
+    "image": "/catalogo/00067.jpg",
+    "sourcePage": 5
+  },
+  {
+    "sku": "00070",
+    "name": "Passaguá cabo retrátil M com alça super reforçado, comprimento do cabo 65",
+    "slug": "passagua-cabo-retratil-m-com-alca-super-reforcado-comprimento-do-cabo-65-00070",
+    "price": 8400,
+    "category": "Passaguás",
+    "image": "/catalogo/00070.jpg",
+    "sourcePage": 5
+  },
+  {
+    "sku": "00071",
+    "name": "Passaguá cabo retrátil G com alça super reforçado, comprimento do cabo 65",
+    "slug": "passagua-cabo-retratil-g-com-alca-super-reforcado-comprimento-do-cabo-65-00071",
+    "price": 8900,
+    "category": "Passaguás",
+    "image": "/catalogo/00071.jpg",
+    "sourcePage": 5
+  },
+  {
+    "sku": "00072",
+    "name": "Passagua P - cabo de alumínio FIXO 50 cm altura boca 33 cm",
+    "slug": "passagua-p-cabo-de-aluminio-fixo-50-cm-altura-boca-33-cm-00072",
+    "price": 2190,
+    "category": "Passaguás",
+    "image": "/catalogo/00072.jpg",
+    "sourcePage": 5
+  },
+  {
+    "sku": "00073",
+    "name": "Passagua M - cabo de alumínio FIXO 75 cm altura boca 43 cm",
+    "slug": "passagua-m-cabo-de-aluminio-fixo-75-cm-altura-boca-43-cm-00073",
+    "price": 2640,
+    "category": "Passaguás",
+    "image": "/catalogo/00073.jpg",
+    "sourcePage": 5
+  },
+  {
+    "sku": "00074",
+    "name": "Passagua G - cabo de alumínio FIXO 75 cm altura boca 46 cm",
+    "slug": "passagua-g-cabo-de-aluminio-fixo-75-cm-altura-boca-46-cm-00074",
+    "price": 2750,
+    "category": "Passaguás",
+    "image": "/catalogo/00074.jpg",
+    "sourcePage": 5
+  },
+  {
+    "sku": "00076",
+    "name": "Passagua Super reforçado malha grossa cabo 0,75",
+    "slug": "passagua-super-reforcado-malha-grossa-cabo-0-75-00076",
+    "price": 3980,
+    "category": "Passaguás",
+    "image": "/catalogo/00076.jpg",
+    "sourcePage": 5
+  },
+  {
+    "sku": "00077",
+    "name": "Passagua retrátil com tela importada, não enrosca anzol boca 34 x 40 cabo 65",
+    "slug": "passagua-retratil-com-tela-importada-nao-enrosca-anzol-boca-34-x-40-cabo-65-00077",
+    "price": 3480,
+    "category": "Passaguás",
+    "image": "/catalogo/00077.jpg",
+    "sourcePage": 6
+  },
+  {
+    "sku": "00078",
+    "name": "Passagua fixo com tela importada, não enrosca anzol cabo 75cm altura",
+    "slug": "passagua-fixo-com-tela-importada-nao-enrosca-anzol-cabo-75cm-altura-00078",
+    "price": 2420,
+    "category": "Passaguás",
+    "image": "/catalogo/00078.jpg",
+    "sourcePage": 6
+  },
+  {
+    "sku": "00079",
+    "name": "Passaguá cabo fixo P (aro 1/2\" - 37x42cm), cabo / Alum. 1\" (75 cm)",
+    "slug": "passagua-cabo-fixo-p-aro-1-2-37x42cm-cabo-alum-1-75-cm-00079",
+    "price": 4370,
+    "category": "Passaguás",
+    "image": "/catalogo/00079.jpg",
+    "sourcePage": 6
+  },
+  {
+    "sku": "00080",
+    "name": "Passaguá cabo fixo M (aro 1/2\" - 42x50cm), cabo / Alum. 1\" (75 cm)",
+    "slug": "passagua-cabo-fixo-m-aro-1-2-42x50cm-cabo-alum-1-75-cm-00080",
+    "price": 4740,
+    "category": "Passaguás",
+    "image": "/catalogo/00080.jpg",
+    "sourcePage": 6
+  },
+  {
+    "sku": "00081",
+    "name": "Passaguá cabo fixo G (aro 1/2\" - 50x60cm), cabo / Alum. 1\" (75 cm)",
+    "slug": "passagua-cabo-fixo-g-aro-1-2-50x60cm-cabo-alum-1-75-cm-00081",
+    "price": 4990,
+    "category": "Passaguás",
+    "image": "/catalogo/00081.jpg",
+    "sourcePage": 6
+  },
+  {
+    "sku": "00082",
+    "name": "Passagua P - cabo retrátil de alumínio 65 cm altura boca 33 cm",
+    "slug": "passagua-p-cabo-retratil-de-aluminio-65-cm-altura-boca-33-cm-00082",
+    "price": 2790,
+    "category": "Passaguás",
+    "image": "/catalogo/00082.jpg",
+    "sourcePage": 6
+  },
+  {
+    "sku": "00083",
+    "name": "Passagua M - cabo retrátil de alumínio 65 cm altura boca 43 cm",
+    "slug": "passagua-m-cabo-retratil-de-aluminio-65-cm-altura-boca-43-cm-00083",
+    "price": 2940,
+    "category": "Passaguás",
+    "image": "/catalogo/00083.jpg",
+    "sourcePage": 6
+  },
+  {
+    "sku": "00084",
+    "name": "Passagua G - cabo retrátil de alumínio 65 cm altura boca 46 cm",
+    "slug": "passagua-g-cabo-retratil-de-aluminio-65-cm-altura-boca-46-cm-00084",
+    "price": 3450,
+    "category": "Passaguás",
+    "image": "/catalogo/00084.jpg",
+    "sourcePage": 6
+  },
+  {
+    "sku": "00085",
+    "name": "Passagua p/ isca",
+    "slug": "passagua-p-isca-00085",
+    "price": 590,
+    "category": "Passaguás",
+    "image": "/catalogo/00085.jpg",
+    "sourcePage": 6
+  },
+  {
+    "sku": "00099",
+    "name": "Polinha",
+    "slug": "polinha-00099",
+    "price": 98,
+    "category": "Acessórios",
+    "image": "/catalogo/00099.jpg",
+    "sourcePage": 6
+  },
+  {
+    "sku": "00120",
+    "name": "Boia cevadeira 2 30 gramas 3 cores laranja vermelha amarelo fluor",
+    "slug": "boia-cevadeira-2-30-gramas-3-cores-laranja-vermelha-amarelo-fluor-00120",
+    "price": 765,
+    "category": "Boias",
+    "image": "/catalogo/00120.jpg",
+    "sourcePage": 6
+  },
+  {
+    "sku": "00121",
+    "name": "Boia cevadeira 6 40 gramas 3 cores vermelha laranja amarelo fluor",
+    "slug": "boia-cevadeira-6-40-gramas-3-cores-vermelha-laranja-amarelo-fluor-00121",
+    "price": 795,
+    "category": "Boias",
+    "image": "/catalogo/00121.jpg",
+    "sourcePage": 6
+  },
+  {
+    "sku": "00122",
+    "name": "Cevadeira 10 50 gramas 3 cores vermelha laranja e amarelo fluor",
+    "slug": "cevadeira-10-50-gramas-3-cores-vermelha-laranja-e-amarelo-fluor-00122",
+    "price": 895,
+    "category": "Boias",
+    "image": "/catalogo/00122.jpg",
+    "sourcePage": 7
+  },
+  {
+    "sku": "00123",
+    "name": "Boia Cevadeira 11 60 gramas",
+    "slug": "boia-cevadeira-11-60-gramas-00123",
+    "price": 990,
+    "category": "Boias",
+    "image": "/catalogo/00123.jpg",
+    "sourcePage": 7
+  },
+  {
+    "sku": "00124",
+    "name": "Boia cevadeira 13 70 gramas 3 cores vermelha laranja e amarelo fluor",
+    "slug": "boia-cevadeira-13-70-gramas-3-cores-vermelha-laranja-e-amarelo-fluor-00124",
+    "price": 1190,
+    "category": "Boias",
+    "image": "/catalogo/00124.jpg",
+    "sourcePage": 7
+  },
+  {
+    "sku": "00127",
+    "name": "Missil 3 80 gramas arremesso 3 cores",
+    "slug": "missil-3-80-gramas-arremesso-3-cores-00127",
+    "price": 1290,
+    "category": "Boias",
+    "image": "/catalogo/00127.jpg",
+    "sourcePage": 7
+  },
+  {
+    "sku": "00128",
+    "name": "Missil 2 65 gramas arremesso 3 cores",
+    "slug": "missil-2-65-gramas-arremesso-3-cores-00128",
+    "price": 1190,
+    "category": "Boias",
+    "image": "/catalogo/00128.jpg",
+    "sourcePage": 7
+  },
+  {
+    "sku": "00129",
+    "name": "Missil 1 50 gramas arremesso 3 cores",
+    "slug": "missil-1-50-gramas-arremesso-3-cores-00129",
+    "price": 995,
+    "category": "Boias",
+    "image": "/catalogo/00129.jpg",
+    "sourcePage": 7
+  },
+  {
+    "sku": "00130",
+    "name": "Foguete arremesso 70 gramas 3 cores",
+    "slug": "foguete-arremesso-70-gramas-3-cores-00130",
+    "price": 930,
+    "category": "Boias",
+    "image": "/catalogo/00130.jpg",
+    "sourcePage": 7
+  },
+  {
+    "sku": "00131",
+    "name": "Torpedo arremesso 55 gramas",
+    "slug": "torpedo-arremesso-55-gramas-00131",
+    "price": 820,
+    "category": "Boias",
+    "image": "/catalogo/00131.jpg",
+    "sourcePage": 7
+  },
+  {
+    "sku": "00132",
+    "name": "Boia Balão 1 30 gramas.",
+    "slug": "boia-balao-1-30-gramas-00132",
+    "price": 690,
+    "category": "Boias",
+    "image": "/catalogo/00132.jpg",
+    "sourcePage": 7
+  },
+  {
+    "sku": "00135",
+    "name": "Rolha 3 areemesso com sinalizador 45 gramas",
+    "slug": "rolha-3-areemesso-com-sinalizador-45-gramas-00135",
+    "price": 715,
+    "category": "Boias",
+    "image": "/catalogo/00135.jpg",
+    "sourcePage": 7
+  },
+  {
+    "sku": "00136",
+    "name": "Rolha 4 arremesso com sinalizador 25 cm",
+    "slug": "rolha-4-arremesso-com-sinalizador-25-cm-00136",
+    "price": 735,
+    "category": "Boias",
+    "image": "/catalogo/00136.jpg",
+    "sourcePage": 7
+  },
+  {
+    "sku": "00137",
+    "name": "Balão 2 torre arremsso 45 gramas",
+    "slug": "balao-2-torre-arremsso-45-gramas-00137",
+    "price": 790,
+    "category": "Boias",
+    "image": "/catalogo/00137.jpg",
+    "sourcePage": 7
+  },
+  {
+    "sku": "00138",
+    "name": "Boia mini tilapinha Balão 0 13 gramas",
+    "slug": "boia-mini-tilapinha-balao-0-13-gramas-00138",
+    "price": 390,
+    "category": "Boias",
+    "image": "/catalogo/00138.jpg",
+    "sourcePage": 8
+  },
+  {
+    "sku": "00139",
+    "name": "Boia mini tilapinha rolha 0 13 gramas",
+    "slug": "boia-mini-tilapinha-rolha-0-13-gramas-00139",
+    "price": 390,
+    "category": "Boias",
+    "image": "/catalogo/00139.jpg",
+    "sourcePage": 8
+  },
+  {
+    "sku": "00140",
+    "name": "Boia carpa inteligente com chicote e snap.",
+    "slug": "boia-carpa-inteligente-com-chicote-e-snap-00140",
+    "price": 690,
+    "category": "Boias",
+    "image": "/catalogo/00140.jpg",
+    "sourcePage": 8
+  },
+  {
+    "sku": "00141",
+    "name": "Boia espada sem chicote",
+    "slug": "boia-espada-sem-chicote-00141",
+    "price": 690,
+    "category": "Boias",
+    "image": "/catalogo/00141.jpg",
+    "sourcePage": 8
+  },
+  {
+    "sku": "00142",
+    "name": "Boia espada com chicote aço e snap reforçado",
+    "slug": "boia-espada-com-chicote-aco-e-snap-reforcado-00142",
+    "price": 890,
+    "category": "Boias",
+    "image": "/catalogo/00142.jpg",
+    "sourcePage": 8
+  },
+  {
+    "sku": "00143",
+    "name": "Boai prejereba sem chicote",
+    "slug": "boai-prejereba-sem-chicote-00143",
+    "price": 990,
+    "category": "Boias",
+    "image": "/catalogo/00143.jpg",
+    "sourcePage": 8
+  },
+  {
+    "sku": "00144",
+    "name": "Boia prejereba com chicote de aço + snap reforçado",
+    "slug": "boia-prejereba-com-chicote-de-aco-snap-reforcado-00144",
+    "price": 1390,
+    "category": "Boias",
+    "image": "/catalogo/00144.jpg",
+    "sourcePage": 8
+  },
+  {
+    "sku": "00145",
+    "name": "Boia pão com chicote e anzol",
+    "slug": "boia-pao-com-chicote-e-anzol-00145",
+    "price": 475,
+    "category": "Boias",
+    "image": "/catalogo/00145.jpg",
+    "sourcePage": 8
+  },
+  {
+    "sku": "00146",
+    "name": "Bóia Luminosa azul, branco ou verde com LED",
+    "slug": "boia-luminosa-azul-branco-ou-verde-com-led-00146",
+    "price": 990,
+    "category": "Boias",
+    "image": "/catalogo/00146.jpg",
+    "sourcePage": 8
+  },
+  {
+    "sku": "00147",
+    "name": "Bóia Luminosa vermelha com LED",
+    "slug": "boia-luminosa-vermelha-com-led-00147",
+    "price": 955,
+    "category": "Boias",
+    "image": "/catalogo/00147.jpg",
+    "sourcePage": 8
+  },
+  {
+    "sku": "00153",
+    "name": "Bóia arremesso rolha \"2\" 14 cm altura",
+    "slug": "boia-arremesso-rolha-2-14-cm-altura-00153",
+    "price": 590,
+    "category": "Boias",
+    "image": "/catalogo/00153.jpg",
+    "sourcePage": 8
+  },
+  {
+    "sku": "00157",
+    "name": "Bóia Lambari \"0\" - pacote com 100 peças",
+    "slug": "boia-lambari-0-pacote-com-100-pecas-00157",
+    "price": 1210,
+    "category": "Boias",
+    "image": "/catalogo/00157.jpg",
+    "sourcePage": 8
+  },
+  {
+    "sku": "00158",
+    "name": "Bóia Lambari A-1",
+    "slug": "boia-lambari-a-1-00158",
+    "price": 1495,
+    "category": "Boias",
+    "image": "/catalogo/00158.jpg",
+    "sourcePage": 9
+  },
+  {
+    "sku": "00159",
+    "name": "Bóia Lambari \"2\" - pacote com 100 peças",
+    "slug": "boia-lambari-2-pacote-com-100-pecas-00159",
+    "price": 1630,
+    "category": "Boias",
+    "image": "/catalogo/00159.jpg",
+    "sourcePage": 9
+  },
+  {
+    "sku": "00160",
+    "name": "Bóia Lambari \"3\" - pacote com 100 peças",
+    "slug": "boia-lambari-3-pacote-com-100-pecas-00160",
+    "price": 1960,
+    "category": "Boias",
+    "image": "/catalogo/00160.jpg",
+    "sourcePage": 9
+  },
+  {
+    "sku": "00161",
+    "name": "Bóia Lambari \"4\" - pacote com 100 peças",
+    "slug": "boia-lambari-4-pacote-com-100-pecas-00161",
+    "price": 2590,
+    "category": "Boias",
+    "image": "/catalogo/00161.jpg",
+    "sourcePage": 9
+  },
+  {
+    "sku": "00162",
+    "name": "Bóia Lambari \"5\" - pacote com 100 peças",
+    "slug": "boia-lambari-5-pacote-com-100-pecas-00162",
+    "price": 3315,
+    "category": "Boias",
+    "image": "/catalogo/00162.jpg",
+    "sourcePage": 9
+  },
+  {
+    "sku": "00165",
+    "name": "Bóia Lambari \"6\" - pacote com 100 peças",
+    "slug": "boia-lambari-6-pacote-com-100-pecas-00165",
+    "price": 4859,
+    "category": "Boias",
+    "image": "/catalogo/00165.jpg",
+    "sourcePage": 9
+  },
+  {
+    "sku": "00167",
+    "name": "Bóia Lambari \"7\" - pacote com 100 peças",
+    "slug": "boia-lambari-7-pacote-com-100-pecas-00167",
+    "price": 5920,
+    "category": "Boias",
+    "image": "/catalogo/00167.jpg",
+    "sourcePage": 9
+  },
+  {
+    "sku": "00168",
+    "name": "Bóia Lambari \"8\" - pacote com 100 peças",
+    "slug": "boia-lambari-8-pacote-com-100-pecas-00168",
+    "price": 7990,
+    "category": "Boias",
+    "image": "/catalogo/00168.jpg",
+    "sourcePage": 9
+  },
+  {
+    "sku": "00200",
+    "name": "Bolsa P/ Vara c/ 70 cm Nylon 600",
+    "slug": "bolsa-p-vara-c-70-cm-nylon-600-00200",
+    "price": 1990,
+    "category": "Bolsas para pesca",
+    "image": "/catalogo/00200.jpg",
+    "sourcePage": 9
+  },
+  {
+    "sku": "00201",
+    "name": "Bolsa quadrada 1,10 mt p/ vara telescopica Nylon 600",
+    "slug": "bolsa-quadrada-1-10-mt-p-vara-telescopica-nylon-600-00201",
+    "price": 2390,
+    "category": "Bolsas para pesca",
+    "image": "/catalogo/00201.jpg",
+    "sourcePage": 9
+  },
+  {
+    "sku": "00202",
+    "name": "Bolsa Tamba nylon 600",
+    "slug": "bolsa-tamba-nylon-600-00202",
+    "price": 2290,
+    "category": "Bolsas para pesca",
+    "image": "/catalogo/00202.jpg",
+    "sourcePage": 9
+  },
+  {
+    "sku": "00401",
+    "name": "Salva vara 1,5 mt",
+    "slug": "salva-vara-1-5-mt-00401",
+    "price": 280,
+    "category": "Acessórios",
+    "image": "/catalogo/00401.jpg",
+    "sourcePage": 9
+  },
+  {
+    "sku": "00402",
+    "name": "Ponteira inteligente ponta de vara com 2 peças",
+    "slug": "ponteira-inteligente-ponta-de-vara-com-2-pecas-00402",
+    "price": 170,
+    "category": "Acessórios",
+    "image": "/catalogo/00402.jpg",
+    "sourcePage": 10
+  },
+  {
+    "sku": "00827",
+    "name": "Sacola 60 x 1,00",
+    "slug": "sacola-60-x-1-00-00827",
+    "price": 770,
+    "category": "Sacolas e redes",
+    "image": "/catalogo/00827.jpg",
+    "sourcePage": 11
+  }
+]

@@ -1,0 +1,51 @@
+{
+  "name": "gold-fish-ecommerce",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "node scripts/generate-client.cjs && next dev --hostname 127.0.0.1",
+    "build": "node scripts/generate-client.cjs && next build",
+    "start": "next start --hostname 127.0.0.1",
+    "db:push": "prisma db push",
+    "db:seed": "node --import tsx prisma/seed.ts",
+    "setup": "npm install && npm run db:push && npm run db:seed",
+    "check": "prisma generate && next build",
+    "predb:push": "node scripts/ensure-db.cjs",
+    "test:api": "node test-api.cjs",
+    "test:browser": "node test-browser.cjs",
+    "test:payments": "node --import tsx tests/payments.test.ts",
+    "postinstall": "node scripts/generate-client.cjs",
+    "vercel-build": "node scripts/generate-client.cjs --production && next build",
+    "db:generate:production": "node scripts/generate-client.cjs --production",
+    "db:deploy:production": "node scripts/production-db.cjs migrate",
+    "db:seed:production": "node scripts/production-db.cjs seed",
+    "secrets:generate": "node -e \"const c=require('node:crypto');console.log('ADMIN_PASSWORD='+c.randomBytes(18).toString('base64url'));console.log('AUTH_SECRET='+c.randomBytes(48).toString('base64url'))\""
+  },
+  "dependencies": {
+    "@prisma/client": "^6.7.0",
+    "bcryptjs": "^3.0.2",
+    "jose": "^6.0.10",
+    "lucide-react": "^0.468.0",
+    "next": "^15.2.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "zod": "^3.24.0",
+    "prisma": "^6.7.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.5.0",
+    "tailwindcss": "^3.4.17",
+    "tsx": "^4.19.0",
+    "typescript": "^5.7.0"
+  },
+  "prisma": {
+    "seed": "node --import tsx prisma/seed.ts"
+  },
+  "engines": {
+    "node": ">=20.19.0"
+  }
+}
